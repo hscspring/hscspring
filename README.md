@@ -1,12 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
+- 🔭 **Role & Mission**: I’m working on NLP/LLM engineering. Currently, my ideal is to make AI easily for everyone to use, for both daily creativity and enterprise productivity.
+- 🌱 **Tech Stack**: Used Python, JavaScript, Java, Rust, Elixir, C++ in past projects. Currently learning ALL about Computer Science, LLMs, and Alignment/RL.
+- 👯 **Open Source**: Active contributor to open-source infrastructure (e.g., verl, lmdeploy, fish-speech, spaCy) and co-builder at Datawhale.
+- 📝 **Writing**: Deep dives into LLM architectures, RL post-training, and systems engineering at [yam.gift](https://yam.gift).
 
-
-- 🔭 I’m working on NLP related job, an engineer. Currently, my ideal is to make AI easily for everyone to use, for both playing or productivity.
-- 🌱 I've used several programming languages such as Python, JavaScript, Java, Rust, Elixir, C++ in my past projects. Currentyly I'm learning ALL about Computer Science and AI.
-- 👯 I’m looking to collaborate on my open source projects.
-- 🤔 I’m looking for help with anyone who is familar with NLP in production.
-
-
-
-I do believe that one's mission is as important as his life. 
+> *"I do believe that one's mission is as important as his life."*
